@@ -242,7 +242,7 @@ background-color: #160a02;        background-size: auto;
 /* hero section for meself CSS*/
 .main {
     height: 1000hv;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.904)),url(images/pico.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.904)),url(/pico.jpg);
     background-size: cover;
     background-position: center;
     
