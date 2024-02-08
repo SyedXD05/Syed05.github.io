@@ -475,7 +475,7 @@ text-decoration: none;
     width: 400px;
     border-radius: 70px;
    
-    background-image: linear-gradient(to bottom, rgba(43, 36, 36, 0.418) 0%, rgb(0, 0, 0) 100%), url("Images/pic4.jpg");
+    background-image: linear-gradient(to bottom, rgba(43, 36, 36, 0.418) 0%, rgb(0, 0, 0) 100%), url("/Images/pic4.jpg");
     background-size: cover;
     position: relative;
     color: #ffffff;
